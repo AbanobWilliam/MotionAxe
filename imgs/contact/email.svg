@@ -1,0 +1,34 @@
+<svg id="Email" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="104" height="96" viewBox="0 0 104 96">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.281" y1="1.095" x2="0.763" y2="-0.127" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc14d"/>
+      <stop offset="1" stop-color="#9043f0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.101" y1="0.076" x2="1.148" y2="1.189" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e8efee"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="1.009" y1="-0.115" x2="-0.048" y2="1.102" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c2cece" stop-opacity="0"/>
+      <stop offset="0.179" stop-color="#afbcbc" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#5b6a6a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.248" y1="0.232" x2="-0.524" y2="-0.589" xlink:href="#linear-gradient-3"/>
+  </defs>
+  <path id="Shape" d="M95.724,64.357C83.452,82.373,51.5,96.466,24.506,90.685A29.645,29.645,0,0,1,9.436,82.6C1.73,74.873-1.044,63.415.343,53.683c.1-.705.222-1.4.367-2.088C1.817,46.337,4.2,41.736,7.727,38.727c9.984-8.507,16.81-8.9,22.368-10.071a16,16,0,0,0,7.183-3.026C39.33,24,41.31,21.478,43.369,17.356,51,2.116,70.1-7.609,88.693,7.747c.284.236.569.476.853.722a45.048,45.048,0,0,1,6.479,6.9,40.483,40.483,0,0,1,4.132,6.744C106.523,35.29,104.935,50.815,95.724,64.357Z" opacity="0.2" fill="url(#linear-gradient)"/>
+  <path id="Shape_Copy" data-name="Shape Copy" d="M52.464,34.976c-6.726,9.791-24.241,17.451-39.033,14.309a16.29,16.29,0,0,1-8.26-4.392A18.785,18.785,0,0,1,.188,29.176c.055-.383.122-.763.2-1.135a12.423,12.423,0,0,1,3.846-6.993c5.472-4.623,9.213-4.837,12.259-5.473a8.81,8.81,0,0,0,3.937-1.645,12.879,12.879,0,0,0,3.338-4.5C27.95,1.15,38.419-4.135,48.611,4.21c.156.128.312.259.467.393a24.567,24.567,0,0,1,3.551,3.752,21.969,21.969,0,0,1,2.265,3.665C58.383,19.18,57.513,27.617,52.464,34.976Z" transform="translate(39 46)" fill="#9043f0" opacity="0.681"/>
+  <g id="email-2" data-name="email" transform="translate(22 16)">
+    <path id="Path" d="M28.92.553,0,23.688V28H61V23.688L32.08.553A2.534,2.534,0,0,0,28.92.553Z" fill="#ff9102"/>
+    <path id="Path-2" data-name="Path" d="M53.485,52H2.515A2.5,2.5,0,0,1,0,49.517V2.483A2.5,2.5,0,0,1,2.515,0h50.97A2.5,2.5,0,0,1,56,2.483V49.517A2.5,2.5,0,0,1,53.485,52Z" transform="translate(3)" fill="url(#linear-gradient-2)"/>
+    <path id="Path-3" data-name="Path" d="M56,0V1a2.97,2.97,0,0,1-2.937,3H2.937A2.97,2.97,0,0,1,0,1V0Z" transform="translate(3 49)" fill="url(#linear-gradient-3)"/>
+    <g id="Group" transform="translate(15 8)">
+      <rect id="Rectangle" width="31.895" height="1.809" transform="translate(0.053 0.084)" fill="#c2cece"/>
+      <rect id="Rectangle-2" data-name="Rectangle" width="31.895" height="1.809" transform="translate(0.053 7.32)" fill="#c2cece"/>
+      <rect id="Rectangle-3" data-name="Rectangle" width="31.895" height="1.809" transform="translate(0.053 14.72)" fill="#c2cece"/>
+      <rect id="Rectangle-4" data-name="Rectangle" width="31.895" height="1.809" transform="translate(0.053 22.12)" fill="#c2cece"/>
+    </g>
+    <path id="Path-4" data-name="Path" d="M61,0V34.479A2.518,2.518,0,0,1,58.486,37H2.514A2.518,2.518,0,0,1,0,34.479V0L30.835,24.394Z" transform="translate(0 24)" fill="#ffc14d"/>
+    <path id="Path-5" data-name="Path" d="M60,22.773,31.791.543a2.556,2.556,0,0,0-3.151,0L0,23.112A2.528,2.528,0,0,0,1.932,24h55.9A2.518,2.518,0,0,0,60,22.773Z" transform="translate(1 37)" fill="#ffb731"/>
+    <path id="Path-6" data-name="Path" d="M.775,50.666V3.281A2.5,2.5,0,0,1,3.263.78H53.674A2.462,2.462,0,0,1,55,1.168,2.48,2.48,0,0,0,52.9,0H2.487A2.5,2.5,0,0,0,0,2.5V49.886A2.5,2.5,0,0,0,1.161,52,2.5,2.5,0,0,1,.775,50.666Z" transform="translate(3)" fill="url(#linear-gradient-4)"/>
+  </g>
+</svg>

@@ -1,0 +1,407 @@
+a.yellow-button {
+	background: #FFC14D;
+	color: #fff;
+}
+a.yellow-button:hover {
+	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+a.play-video {
+	color: #FFC14D;
+	background: rgba(255, 193, 77, 0.32);
+}
+a.play-video i {
+	color: #FFC14D;
+}
+
+a.play-video:hover i {
+	color: #fff;
+}
+a.play-video:hover {
+	color: #fff;
+	background: #ffc14d;
+	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+div.title p {
+	color: #737373;
+}
+header a.logo {
+	color: #1B0835;
+}
+header a.logo span {
+	color: #9043F0;
+}
+header div.menu-theme ul.desktop li a {
+	color: #1B0835;
+}
+header div.menu-theme ul.desktop li:not(:last-child) a:hover {
+	color: #9043F0;
+}
+header div.menu-theme ul.desktop li:last-child a {
+	color: #fff;
+	background: #9043F0;
+}
+header div.menu-theme ul.desktop li:last-child a:hover {
+	background: #b643f0;
+}
+section.animated-videos {
+	background: url("../imgs/animated-videos-bg.svg") no-repeat;
+	background-position: 50px 0px;
+}
+section.animated-videos div.info h1 {
+	color: #1B0835;
+}
+section.animated-videos div.info p {
+	color: #808080;
+}
+section.animated-videos div.info a.yellow-button {
+	margin-right: 16px;
+}
+section.right-mix div.content {
+	box-shadow: 0px 2px 90px 0px rgba(0, 0, 0, 0.06);
+}
+section.right-mix div.content div.right h3 {
+	color: #1B0835;
+}
+section.right-mix div.content div.right p {
+	color: #737373;
+}
+section.right-mix div.content div.item p {
+	color: #737373;
+}
+section.right-mix div.content div.item a {
+	color: #9043F0;
+}
+section.right-mix div.content div.item a i {
+	color: #000000;
+}
+section.our-works div.works div.item {
+	box-shadow: 0px 0px 71px 0px rgba(0, 0, 0, 0.1);
+}
+section.our-works div.works div.item div.img a span {
+	box-shadow: 0px 0px 10px rgba(255, 193, 77, 0.3);
+	background: #FFC14D;
+	color: #fff;
+	border: 3px solid rgba(255, 193, 77, 0.3);
+}
+section.our-works div.works div.item div.project-title {
+	background: #fff;
+}
+section.our-works div.works div.item div.project-title a {
+	color: #9043F0;
+}
+section.our-works div.works div.item div.project-title a i {
+	color: #1B0835;
+}
+section.our-works div.works a.yellow-button i {
+	color: #fff;
+}
+section.our-process {
+	background-image: linear-gradient(31deg, rgba(255, 193, 77, 0.05) 8%, rgba(144, 67, 240, 0.05) 96%);
+}
+section.our-process .process-slides-wrapper div.process-item:after {
+	background: #F3ECFD;
+}
+section.our-process .process-slides-wrapper div.process-item span {
+	background: #9043F0;
+	border: 7px solid rgba(144, 67, 240, 0.1);
+	color: #fff;
+}
+section.our-process .process-slides-wrapper div.process-item div p {
+	color: #737373;
+}
+section.our-process .process-slides-wrapper .ACTIVE_SLIDE span {
+	background: #9043F0;
+	border: 7px solid rgba(144, 67, 240, 0.04);
+}
+section.our-process .process-slides-wrapper .ACTIVE_SLIDE div {
+	background: rgba(144, 67, 240, 0.04);
+}
+section.our-process .process-slides-wrapper .ACTIVE_SLIDE div:before {
+	border-right: 15px solid rgba(144, 67, 240, 0.04);
+}
+section.our-process .process-controllers button {
+	background: rgba(144, 67, 240, 0.05);
+	border: 1px solid #FFC14D;
+}
+section.our-process .process-controllers button:hover {
+	background: #FFC14D;
+	color: #fff;
+}
+section.our-clients {
+	background: url("../imgs/our-clients.svg") no-repeat;
+	background-position: 130px bottom;
+}
+
+section.our-clients div.reviews div.owl-carousel {
+	overflow: hidden;
+	padding: 15px;
+	padding-top: 60px;
+}
+
+section.our-clients div.reviews div.owl-carousel .owl-stage-outer {
+	overflow: visible;
+}
+section.our-clients div.reviews div.owl-carousel .owl-nav button {
+	background: rgba(144, 67, 240, 0.05);
+	border: 1px solid #FFC14D;
+	color: #000000;
+}
+section.our-clients div.reviews div.owl-carousel .owl-nav button:hover {
+	color: #fff;
+	background: #FFC14D;
+}
+section.our-clients div.reviews div.owl-carousel .owl-nav button .disabled {
+	background: #000;
+}
+section.our-clients div.reviews div.item {
+	background: #fff;
+	box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
+}
+section.our-clients div.reviews div.item ul.r-stars li i {
+	color: #FFC14D;
+}
+section.our-clients div.reviews div.item b {
+	color: #1B0835;
+}
+section.our-clients div.reviews div.item p {
+	color: #737373;
+}
+section.our-clients div.reviews div.item div.client {
+	margin-top: 44px;
+}
+section.our-clients div.reviews div.item div.client div.name-position h5 {
+	color: #000000;
+}
+section.our-clients div.reviews div.item div.client div.name-position i {
+	color: #000000;
+}
+section.growing-bussiness {
+	background: #FFC14D;
+}
+section.growing-bussiness div.layer {
+	background: url("../imgs/growing-bussiness.png") no-repeat;
+	background-position: top right;
+}
+section.growing-bussiness div.layer div.text h2 {
+	color: #fff;
+}
+section.growing-bussiness div.layer div.button i {
+	color: #000000;
+}
+footer a.logo {
+	color: #1B0835;
+}
+footer a.logo span {
+	color: #9043F0;
+}
+footer ul.menu li a {
+	color: #1B0835;
+}
+footer ul.menu li a:hover {
+	color: #FFC14D;
+}
+footer ul.social li a {
+	color: #1B0835;
+}
+footer ul.social li a:hover {
+	color: #FFC14D;
+}
+a.go-to-top {
+	background: #FFC14D;
+	color: #fff;
+	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+a.go-to-top:hover {
+	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+}
+div.background {
+	background: url("../imgs/Subpages.png") no-repeat;
+	background-size: 100%;
+	background-position: top right;
+}
+section.works-page div.w-tabs div.w-controlls ul {
+	background: rgba(255, 193, 77, 0.1);
+}
+section.works-page div.w-tabs div.w-controlls ul li a {
+	color: #1B0835;
+}
+section.works-page div.w-tabs div.w-controlls ul li.active a {
+	background: #FFC14D;
+	color: #fff;
+}
+section.our-process-page div.title a.yellow-button i {
+	color: #000000;
+}
+section.our-process-page div.content div.row div.info span {
+	background: #9043F0;
+	color: #fff;
+	border: 5px solid rgba(144, 67, 240, 0.1);
+}
+section.our-process-page div.content div.row div.info h3 {
+	color: #1B0835;
+}
+section.pricing div.content div.item {
+	box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.05);
+	background: #fff;
+}
+section.pricing div.content div.item div.info div.price {
+	background: #FFC14D;
+}
+section.pricing div.content div.item div.info div.price div.holder span {
+	color: rgba(27, 8, 53, 0.49);
+}
+section.pricing div.content div.item div.info div.price div.holder b {
+	color: #fff;
+}
+section.pricing div.content div.item div.info div.price div.holder i {
+	color: #fff;
+}
+section.pricing div.content div.item div.info div.description h4 {
+	color: #1B0835;
+}
+section.pricing div.content div.item div.info div.description p {
+	color: #737373;
+}
+section.blog div.item div.category-date span.cat {
+	color: #9043F0;
+}
+section.blog div.item div.category-date span.date {
+	color: #737373;
+}
+section.blog div.item h4 {
+	color: #1B0835;
+}
+section.blog div.item p {
+	color: #373737;
+}
+section.blog div.item a.read-more {
+	color: #FFC14D;
+}
+section.blog div.item a.read-more i {
+	color: #000000;
+}
+section.why-choose-us div.content div.item h4 {
+	font-family: Gilroy-SemiBold;
+}
+section.why-choose-us div.content div.item p {
+	color: #737373;
+}
+section.our-team div.content div.item h4 {
+	color: #1B0835;
+}
+section.our-team div.content div.item p {
+	color: #737373;
+}
+section.contact div.content div.form div.input {
+	margin-bottom: 24px;
+}
+section.contact div.content div.form div.input input,
+section.contact div.content div.form div.input textarea,
+section.contact div.content div.form div.input select {
+	background: rgba(209, 206, 215, 0.15);
+}
+section.contact div.content div.form div.input input::placeholder,
+section.contact div.content div.form div.input textarea::placeholder,
+section.contact div.content div.form div.input select::placeholder {
+	color: #1B0835;
+}
+section.contact div.content div.form div.input input:-ms-input-placeholder,
+section.contact div.content div.form div.input textarea:-ms-input-placeholder,
+section.contact div.content div.form div.input select:-ms-input-placeholder {
+	color: #1B0835;
+}
+section.contact div.content div.form div.input input::-ms-input-placeholder,
+section.contact div.content div.form div.input textarea::-ms-input-placeholder,
+section.contact div.content div.form div.input select::-ms-input-placeholder {
+	color: #1B0835;
+}
+section.contact div.content div.form div.checkbox-field {
+	color: #737373;
+}
+section.contact div.content div.form div.checkbox-field span.checkbox label {
+	border: 1px solid #D1CED7;
+}
+section.contact div.content div.form div.checkbox-field span.checkbox label:after {
+	color: #FFC14D;
+}
+section.contact div.content div.form div.submit input {
+	background: #FFC14D;
+	color: #fff;
+}
+section.contact div.content div.form div.submit input:hover {
+	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+}
+section.contact div.content div.contact-info div.item div.details p {
+	color: #737373;
+	font-size: 20px;
+}
+section.faqs div.content div.faq:not(:last-child) {
+	border-bottom: 1px solid #d8d8d8;
+}
+section.faqs div.content div.faq h3 {
+	color: #1B0835;
+}
+section.faqs div.content div.faq p {
+	color: #737373;
+}
+section.single-blog div.content div.post-content div.project-image span {
+	box-shadow: 0px 0px 10px rgba(255, 193, 77, 0.3);
+	background: #FFC14D;
+	color: #fff;
+	border: 3px solid rgba(255, 193, 77, 0.3);
+}
+section.single-blog div.content div.post-content div.project-image span i {
+	color: #fff;
+}
+section.single-blog div.content div.post-content p,
+section.single-blog div.content div.post-content ul,
+section.single-blog div.content div.post-content ol,
+section.single-blog div.content div.post-content b,
+section.single-blog div.content div.post-content i,
+section.single-blog div.content div.post-content del {
+	color: #737373;
+}
+section.single-blog div.content div.post-content a {
+	color: #FFC14D;
+}
+section.single-blog div.content div.post-content a:hover {
+	color: #1B0835;
+}
+section.single-blog div.content div.cat-tags div.cat,
+section.single-blog div.content div.cat-tags div.tags {
+	border-bottom: 1px solid #000000;
+}
+section.single-blog div.content div.cat-tags div.cat span,
+section.single-blog div.content div.cat-tags div.tags span {
+	color: #1B0835;
+}
+section.single-blog div.content div.cat-tags div.cat ul li a,
+section.single-blog div.content div.cat-tags div.tags ul li a {
+	background: #FFC14D;
+	color: #fff;
+}
+section.single-blog div.content div.cat-tags div.cat ul li a:hover,
+section.single-blog div.content div.cat-tags div.tags ul li a:hover {
+	background: #000000;
+}
+section.single-blog div.content div.share {
+	border-bottom: 1px solid #000000;
+}
+section.single-blog div.content div.share span {
+	color: #1B0835;
+}
+section.single-blog div.content div.share ul li a {
+	color: #000000;
+}
+section.single-blog div.content div.share ul li a:hover {
+	color: #FFC14D;
+}
+@media (max-width: 768px) {
+	.mobile-button span {
+		background: #FFC14D;
+	}
+	header div.menu-theme ul.desktop {
+		box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+		background: #fff;
+	}
+}
